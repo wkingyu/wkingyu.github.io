@@ -41,8 +41,6 @@ My research interests include large language models, intelligent agents, informa
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Top 1%). 
 - *2024.06* Bronze Award in ICPC China Shaanxi Province Programming Competition.
