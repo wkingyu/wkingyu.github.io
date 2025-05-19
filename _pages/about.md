@@ -29,7 +29,7 @@ My research interests include large language models, intelligent agents, informa
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai-logo-RGB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Waiting for publication!]()
@@ -48,8 +48,6 @@ My research interests include large language models, intelligent agents, informa
 # 📖 Educations
 - *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an. 
 - *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha.
-
-# 💬 Invited Talks
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Huawei, Xi'an, China.
