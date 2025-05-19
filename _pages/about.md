@@ -21,7 +21,7 @@ I am currently working on building automated processes in mathematics and code u
 
 I graduated from Hunan University (QS ranking: 448) and am currently studying for a master's degree at Xi'an Jiaotong University (QS ranking: 295), with Professor [Heli Sun](https://gr.xjtu.edu.cn/web/hlsun/english) as my supervisor. I also work closely with [Chengxi She](https://scholar.google.com/citations?user=Fvh1oH0AAAAJ&hl=zh-CN) from Nanjing University.
 
-My research interests include large language models, intelligent agents, information source retrieval, and root cause analysis. I am actively preparing for the paper submission for AAAI 2026
+My research interests include large language models, intelligent agents, information source retrieval, and root cause analysis. I am actively preparing for the paper submission for AAAI 2026. Cheer for myself!
 
 
 # 🔥 News
