@@ -41,7 +41,7 @@ My research interests include large language models, intelligent agents, informa
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.10* National Scholarship (Top 1%). 
 - *2024.06* Bronze Award in ICPC China Shaanxi Province Programming Competition.
 
