@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王泽宇的个人主页"
-description              : "西安交通大学软件学院 "
+title                    : "Zeyu Wang"
+description              : "Xi'an Jiaotong University, School of Software, "
 repository               : "wkingyu/wkingyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王泽宇"
+  name             : "Zeyu Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xi'an Jiaotong University"
-  location         : "中国西安"
+  location         : "Xi'an"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cb-np-MAAAAJ"
