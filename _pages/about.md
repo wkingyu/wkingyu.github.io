@@ -42,10 +42,10 @@ My research interests include large language models, intelligent agents, informa
 </div>
 
 # 🏆 Honors and Awards
-- *2024.10*, National Scholarship (Top 1%).
+- *2024.10*, National Scholarship.
 - *2024.06*, Bronze Award in ICPC China Shaanxi Province Programming Competition.
-- *2021.12*, Huawei Intelligent Base Scholarship
-- *2020.12*, Third Prize in the National College Mathematics Competition (Non-mathematics)
+- *2021.12*, Huawei Intelligent Base Scholarship.
+- *2020.12*, Third Prize in the National College Mathematics Competition (Non-mathematics).
 
 # 📖 Educations
 - *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
