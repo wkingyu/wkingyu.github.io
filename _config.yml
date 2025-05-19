@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeyu Wang"
-description              : "Xi'an Jiaotong University, School of Software, "
+description              : "Focus on large language model automation process design"
 repository               : "wkingyu/wkingyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeyu Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xi'an Jiaotong University"
-  location         : "Xi'an"
+  bio              : ""
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cb-np-MAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "wkingyu"
+  github           : "https://github.com/wkingyu"
   google_plus      :
   keybase          :
   instagram        :
