@@ -46,8 +46,8 @@ My research interests include large language models, intelligent agents, informa
 - *2024.06* Bronze Award in ICPC China Shaanxi Province Programming Competition.
 
 # 📖 Educations
-- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an. 
-- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha.
+- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
+- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Huawei, Xi'an, China.
