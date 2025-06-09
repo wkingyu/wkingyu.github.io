@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My research interest is large model reasoning.
+My research interest is large language model reasoning.
 
 
 # 📖 Educations
