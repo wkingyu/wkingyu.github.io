@@ -25,7 +25,6 @@ My research interest is large language model reasoning.
 - *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
 - *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
 
-
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Personal website created. 
 
@@ -45,9 +44,10 @@ My research interest is large language model reasoning.
 
 # 🏆 Honors and Awards
 - *2024.10*, National Scholarship.
+- *2024.06*, Blue Bridge Cup Python Programming National Second Prize.
 - *2024.06*, Bronze Award in ICPC China Shaanxi Province Programming Competition.
 - *2021.12*, Huawei Intelligent Base Scholarship.
-- *2020.12*, Third Prize in the National College Mathematics Competition (Non-mathematics).
+- *2020.12*, Third Prize in the Preliminary Round of the National College Mathematics Competition.
 
 # 💻 Internships
-- *2024.07 - 2024.08*, AI Algorithm Engineer, Huawei, Xi'an, China.
+- *2024.07 - 2024.09*, AI Algorithm Engineer, Huawei, Xi'an, China.
