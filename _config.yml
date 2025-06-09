@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeyu Wang"
-description              : "Master student in Software Engineering, School of Software, Xi'an Jiaotong University, China."
+description              : "LLM Reasoning"
 repository               : "wkingyu/wkingyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cb-np-MAAAAJ"
-  email            : "wkingyu666@gmail.com"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
