@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working on building automated processes in mathematics and code using large language models.
+My research interest is large model reasoning.
 
 I graduated from Hunan University and am currently studying for a master's degree at Xi'an Jiaotong University.
 
-My research interest is large model reasoning.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Personal website created. 
