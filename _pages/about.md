@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 My research interest is large model reasoning.
 
-I graduated from Hunan University and am currently studying for a master's degree at Xi'an Jiaotong University.
+
+# 📖 Educations
+- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
+- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
 
 
 # 🔥 News
@@ -45,9 +49,5 @@ I graduated from Hunan University and am currently studying for a master's degre
 - *2021.12*, Huawei Intelligent Base Scholarship.
 - *2020.12*, Third Prize in the National College Mathematics Competition (Non-mathematics).
 
-# 📖 Educations
-- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
-- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
-
 # 💻 Internships
-- *2024.07 - 2024.08*, Huawei, Xi'an, China.
+- *2024.07 - 2024.08*, AI Algorithm Engineer, Huawei, Xi'an, China.
