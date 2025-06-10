@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeyu Wang"
-description              : "LLM Reasoning"
+description              : "LLM Reasoning, RAG"
 repository               : "wkingyu/wkingyu.github.io"
 google_scholar_stats_use_cdn : true
 
