@@ -21,10 +21,6 @@ redirect_from:
 My research interest is large language model reasoning.
 
 
-# 📖 Educations
-- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
-- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
-
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Personal website created. 
 
@@ -41,6 +37,11 @@ My research interest is large language model reasoning.
 - Paper Introduction
 </div>
 </div>
+
+
+# 📖 Educations
+- *2023.09 - 2026.06*, Master, Xi'an Jiaotong University, Xi'an, China. 
+- *2019.09 - 2023.06*, Undergraduate, Hunan University, Changsha, China.
 
 # 🏆 Honors and Awards
 - *2024.10*, National Scholarship.
